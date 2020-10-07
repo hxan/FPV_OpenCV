@@ -1,2 +1,2 @@
 # FPV_Opencv
-FPV_Opencv is for explorer
+FPV_OpenCV is for explorer
